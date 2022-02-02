@@ -15,4 +15,4 @@ While the blog aims to portray a visual that captures the aura of the eighteenth
 
 This review’s sole purpose is to pinpoint flaws that are found within the blog which gives insight for future digital humanities projects. 
 
-**this is just a rough idea and outline of what I am going to talk about and I will incorporate more in detail about each component of the blog but for now I just wanted a brief overview of the main points I wanted to address.
+**this is just a rough idea and outline of what I am going to talk about and I will incorporate more in detail about each component of the blog but for now I just wanted a brief overview of the main points I wanted to address.**
