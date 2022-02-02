@@ -1,5 +1,7 @@
 # The Grand Tour of Italy Project Review 
 
+<https://grandtour.stanford.edu/>
+
 As digital humanities is growing in today’s day and age, a lot of projects and sites aim to create an interactive platform for users to grasp material more effectively
 
 The Grand Tour Project is a digital humanities project that’s major purpose is to inform readers of what is known as “The Grand Tour of Italy” and how it shaped Europeans within the eighteenth century. The Grand Tour constituted modernity and many other aspects like culture and art, which improved the lifestyle during this time. This project encompasses its achievements by giving readers more insight of the journeys and discoveries within this period in a more “visual” and “interactive” way.
