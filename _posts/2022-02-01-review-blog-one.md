@@ -10,7 +10,7 @@ Have you ever wished that you could live through a different time? Ever wondered
 
 <img src="https://tanneyc.github.io/tanneyCNU/images/gtbanner.jpeg" width="75%">
 
-###### The main and one of only images used 
+###### The main and the one of only images used 
 
 ### What is it? 
 The Grand Tour Project is a digital humanities project that’s major purpose is to inform readers of what is known as “The Grand Tour of Italy” and how it shaped Europeans within the eighteenth century. The Grand Tour constituted modernity and many other aspects like culture and art, which improved the lifestyle during this time. This project encompasses its achievements by giving readers more insight of the journeys and discoveries within this period in a more “visual” and “interactive” way. 
