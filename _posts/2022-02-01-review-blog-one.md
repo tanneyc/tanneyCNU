@@ -14,9 +14,7 @@ The Grand Tour Project is a digital humanities project that’s major purpose is
 ### Successes and Findings 
 The site is overall easy to navigate for first time visitors. There are clickable links bolded at the top so it’s not hard to miss. Red being the dominant color for most of the site allows for more to stand out and be noticed. Along with that, everything is labeled so you can click on what information you specifically want to see. 
 
-![Headers](https://tanneyc.github.io/tanneyCNU/images/header.jpg)
-
-<img src="https://tanneyc.github.io/tanneyCNU/images/header.jpg" width="500%">
+<img src="https://tanneyc.github.io/tanneyCNU/images/header.jpg" width="100%">
 
 The project also does a good job with providing previous events that have occurred from past years. This helps with the credibility of previous workshops proving that they have been done before and have been successful in the past. It’s a way to ensure the viewers that this is something that new viewers can take part in during the future. It is a growing project that may or not be offering more event workshops to any further interested participants. Alongside of that, the project offers “news” and several pages of “project updates” that keep those who are intrigued to stay involved and absorb new information of what else is being done. 
 
@@ -29,9 +27,7 @@ While the project aims to portray the aura of the eighteenth century, it does la
 
 The site provides many links to other websites but that takes away from what the site alone has to offer. Clicking on one of the links labeled, “Intelligent Life” does not work which can be a problem and may either need to be replaced or taken off. Otherwise, the project lacks recent updates since the latest overall update was in 2018. 
 
-![Intelligent Life link](https://tanneyc.github.io/tanneyCNU/images/errorlink.png)
-
-<img src="https://tanneyc.github.io/tanneyCNU/images/errorlink.png" width="10%">
+<img src="https://tanneyc.github.io/tanneyCNU/images/errorlink.png" width="85%">
 
 ### Takeaway 
 
