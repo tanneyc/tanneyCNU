@@ -20,6 +20,8 @@ The project also does a good job with providing previous events that have occurr
 
 “The Grand Tour Explorer” is an ongoing application that captures a historian’s dictionary entries that have been turned into research evidence on the life lived back then. The application incorporates an interactive page that takes you to graphs of the stats and data taken from that research, where viewers can interact by maneuvering around and see it all in a more organized way. Viewers have more leisure when it comes to interacting with the graphs because they can play around with it and essentially explore as if they are also an explorer during this time.
 
+<img src="https://tanneyc.github.io/tanneyCNU/images/graphs.png" width="80%">
+
 ### Difficulties
 
 While the project aims to portray the aura of the eighteenth century, it does lack creativity and overall appeal to the site. More could be implemented to make it more engaging and visually appealing for viewers to fully picture, The Grand Tour. With a small font and wordiness, it doesn’t automatically draw viewers in. The theme is very dull and doesn’t exhibit much excitement. 
