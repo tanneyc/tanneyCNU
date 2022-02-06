@@ -24,7 +24,7 @@ The project also does a good job with providing previous events that have occurr
 
 <img src="https://tanneyc.github.io/tanneyCNU/images/graphs.png" width="60%">
 
-##### These are the six interactive graphs with the organized data
+###### These are the six interactive graphs with the organized data
 
 ### Difficulties
 
@@ -34,7 +34,8 @@ While the project aims to portray the aura of the eighteenth century, it does la
 The site provides many links to other websites but that takes away from what the site alone has to offer. Clicking on one of the links labeled, “Intelligent Life” does not work which can be a problem and may either need to be replaced or taken off. Otherwise, the project lacks recent updates since the latest overall update was in 2018. 
 
 <img src="https://tanneyc.github.io/tanneyCNU/images/errorlink.png" width="70%">
-##### This is what happens after you click on the "Intelligent Life" link within the "Press" link under the "News" header
+
+###### This is what happens after you click on the "Intelligent Life" link within the "Press" link under the "News" header
 
 ### Takeaway 
 
