@@ -4,7 +4,7 @@
 
 **Project Director(s):** 
 
-**Project URL:**
+**Project URL:** <https://grandtour.stanford.edu/>
 
 Have you ever wished that you could live through a different time? Ever wondered what It’d be like to be a traveler during the eighteenth-century? The Grand Tour Project allows you to envision the journeys, through visualizations and gives you an opportunity to place yourself in these traveler’s shoes. 
 
