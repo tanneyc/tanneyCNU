@@ -14,6 +14,8 @@ The Grand Tour Project is a digital humanities project that’s major purpose is
 ### Successes and Findings 
 The site is overall easy to navigate for first time visitors. There are clickable links bolded at the top so it’s not hard to miss. Red being the dominant color for most of the site allows for more to stand out and be noticed. Along with that, everything is labeled so you can click on what information you specifically want to see. 
 
+![Headers](https://github.com/tanneyc/tanneyCNU/blob/main/images/header.jpg)
+
 The project also does a good job with providing previous events that have occurred from past years. This helps with the credibility of previous workshops proving that they have been done before and have been successful in the past. It’s a way to ensure the viewers that this is something that new viewers can take part in during the future. It is a growing project that may or not be offering more event workshops to any further interested participants. Alongside of that, the project offers “news” and several pages of “project updates” that keep those who are intrigued to stay involved and absorb new information of what else is being done. 
 
 “The Grand Tour Explorer” is an ongoing application that captures a historian’s dictionary entries that have been turned into research evidence on the life lived back then. The application incorporates an interactive page that takes you to graphs of the stats and data taken from that research, where viewers can interact by maneuvering around and see it all in a more organized way. Viewers have more leisure when it comes to interacting with the graphs because they can play around with it and essentially explore as if they are also an explorer during this time.
