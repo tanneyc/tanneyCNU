@@ -4,7 +4,7 @@
 
 **Project Director(s):** 
 
-**Project URL:*** 
+**Project URL:**
 
 As digital humanities projects are growing in today’s day and age, a lot of projects and sites aim to create an interactive platform for users to grasp material more effectively. 
 
