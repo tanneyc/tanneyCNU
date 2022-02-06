@@ -24,3 +24,5 @@ While the project aims to portray the aura of the eighteenth century, it does la
 
 
 The site provides many links to other websites but that takes away from what the site alone has to offer. Clicking on one of the links labeled, “Intelligent Life” does not work which can be a problem and may either need to be replaced or taken off. Otherwise, the project lacks recent updates since the latest overall update was in 2018. 
+
+After exploring and interacting with the content provided in the project, the usability is user friendly and easy for first-time visitors to figure out just by a few clicks. Although as an academic project it shares a lot of information about the topic, for a digital humanities project there could be more engagement and images that not only represent the travels and discoveries of the Grand Tour, but also images from the previous workshops to encourage future participation. The Grand Tour of Italy is a poignant and positive occurrence during the eighteenth- century that more people should be aware of and see the true value it has brought to the upswing of culture and art. 
