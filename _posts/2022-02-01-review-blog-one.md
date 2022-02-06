@@ -33,7 +33,7 @@ The project also does a good job with providing previous events that have occurr
 While the project aims to portray the aura of the eighteenth century, it does lack creativity and overall appeal to the site. More could be implemented to make it more engaging and visually appealing for viewers to fully picture, The Grand Tour. With a small font and wordiness, it doesn’t automatically draw viewers in. The theme is very dull and doesn’t exhibit much excitement. 
 
 
-The site provides many links to other websites but that takes away from what the site alone has to offer. Clicking on one of the links labeled, “Intelligent Life” does not work which can be a problem and may either need to be replaced or taken off. Otherwise, the project lacks recent updates since the latest overall update was in 2018. 
+The site provides many links to other websites but that takes away from what the site alone has to offer. Clicking on one of the links labeled, “Intelligent Life” does not work which can be a problem and may either need to be replaced or taken off. Otherwise, the project lacks recent updates since the latest overall update was in 2018 and also hasn't experimented with more workshops since then either.
 
 <img src="https://tanneyc.github.io/tanneyCNU/images/errorlink.png" width="70%">
 
