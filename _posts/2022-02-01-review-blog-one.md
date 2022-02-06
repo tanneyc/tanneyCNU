@@ -14,7 +14,7 @@ The Grand Tour Project is a digital humanities project that’s major purpose is
 ### Successes and Findings 
 The site is overall easy to navigate for first time visitors. There are clickable links bolded at the top so it’s not hard to miss. Red being the dominant color for most of the site allows for more to stand out and be noticed. Along with that, everything is labeled so you can click on what information you specifically want to see. 
 
-<img src="https://tanneyc.github.io/tanneyCNU/images/header.jpeg" width="120">
+<img src="https://tanneyc.github.io/tanneyCNU/images/header.jpeg"width="120">
 
 The project also does a good job with providing previous events that have occurred from past years. This helps with the credibility of previous workshops proving that they have been done before and have been successful in the past. It’s a way to ensure the viewers that this is something that new viewers can take part in during the future. It is a growing project that may or not be offering more event workshops to any further interested participants. Alongside of that, the project offers “news” and several pages of “project updates” that keep those who are intrigued to stay involved and absorb new information of what else is being done. 
 
