@@ -1,5 +1,11 @@
 # The Grand Tour of Italy Project Review 
 
+**Project:** The Grand Tour of Italy
+
+**Project Director(s):** 
+
+**Project URL:*** 
+
 As digital humanities projects are growing in today’s day and age, a lot of projects and sites aim to create an interactive platform for users to grasp material more effectively. 
 
 Have you ever wished that you could live through a different time? Ever wondered what It’d be like to be a traveler during the eighteenth-century? The Grand Tour Project allows you to envision the journeys, through visualizations and gives you an opportunity to place yourself in these traveler’s shoes. 
