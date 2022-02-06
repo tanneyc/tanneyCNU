@@ -2,7 +2,7 @@
 
 **Project:** The Grand Tour of Italy
 
-**Project Director(s):** Stanford University
+**Project Director:** Stanford University
 
 **Project URL:** <https://grandtour.stanford.edu/>
 
