@@ -16,7 +16,7 @@ The site is overall easy to navigate for first time visitors. There are clickabl
 
 ![Headers](https://tanneyc.github.io/tanneyCNU/images/header.jpg)
 
-<img src="https://tanneyc.github.io/tanneyCNU/images/header.jpg" width="100%">
+<img src="https://tanneyc.github.io/tanneyCNU/images/header.jpg" width="500%">
 
 The project also does a good job with providing previous events that have occurred from past years. This helps with the credibility of previous workshops proving that they have been done before and have been successful in the past. It’s a way to ensure the viewers that this is something that new viewers can take part in during the future. It is a growing project that may or not be offering more event workshops to any further interested participants. Alongside of that, the project offers “news” and several pages of “project updates” that keep those who are intrigued to stay involved and absorb new information of what else is being done. 
 
