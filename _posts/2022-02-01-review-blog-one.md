@@ -24,7 +24,7 @@ The project also does a good job with providing previous events that have occurr
 
 “The Grand Tour Explorer” is an ongoing application that captures a historian’s dictionary entries that have been turned into research evidence on the life lived back then. The application incorporates an interactive page that takes you to graphs of the stats and data taken from that research, where viewers can interact by maneuvering around and see it all in a more organized way. Viewers have more leisure when it comes to interacting with the graphs because they can play around with it and essentially explore as if they are also an explorer during this time.
 
-<img src="https://github.com/tanneyc/tanneyCNU/blob/main/images/gtbanner.jpeg" width="80%">
+<img src="https://github.com/tanneyc/tanneyCNU/blob/main/images/graphs.png" width="80%">
 
 ###### These are the six interactive graphs with the organized data
 
