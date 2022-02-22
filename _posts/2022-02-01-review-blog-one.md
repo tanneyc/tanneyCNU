@@ -8,7 +8,7 @@
 
 Have you ever wished that you could live through a different time? Ever wondered what it’d be like to be a traveler during the eighteenth-century? The Grand Tour Project allows you to envision the journeys, through visualizations and gives you an opportunity to place yourself in these traveler’s shoes. 
 
-<img src="https://tanneyc.github.io/tanneyCNU/images/gtbanner.jpeg" width="75%">
+<img src="https://github.com/tanneyc/tanneyCNU/blob/main/images/gd.JPEG" width="75%">
 
 ###### The main/one of the only images used throughout the site
 
