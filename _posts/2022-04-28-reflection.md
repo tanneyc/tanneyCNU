@@ -12,9 +12,8 @@ One of my favorite readings that we looked at was titled, “Shitty First Drafts
 
 This class took away from the standard style of learning that I am typically used to in my other classes. We strayed away from regular discussion posts and made **Twitter** our way of sharing what we learned and allowed us to discuss amongst our peers our takeaways from class. I liked having the freedom to tweet without any guidelines because it became a way for me to express my opinions on things we looked at in the course. We also used **GitHub** to post blogs which I found really fun to explore and learn. I thought it was more engaging for us as students to play around with in comparison to an old fashioned way of doing so. 
 
-<img src="https://tanneyc.github.io/tanneyCNU/images/profile.jpg" width="30%"> 
+<img src="https://tanneyc.github.io/tanneyCNU/images/profile.jpg" width="30%"> <img src="https://tanneyc.github.io/tanneyCNU/images/github.png" width="30%">
 
-<img src="https://tanneyc.github.io/tanneyCNU/images/github.png" width="30%">
 
 Besides our blog posts, our final assignment was to propose a grant idea that we heavily focused on for the rest of the semester. It was a great way to finish off because we concentrated on things we were passionate about which made it more enjoyable. Although I found a lot of the assignments to be tedious, I didn’t mind the process since it was more of a creative outlet for us. 
 
