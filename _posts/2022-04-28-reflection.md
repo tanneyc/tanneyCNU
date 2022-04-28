@@ -10,6 +10,9 @@ Throughout the course we looked at a number of readings and participated in a va
 
 One of my favorite readings that we looked at was titled, “Shitty First Drafts” and it provided me with a sense of comfort knowing I don’t have to put together a quality first draft to begin with. The article encourages writers to write multiple drafts to create room for improvement which also gives you the opportunity to expand on previous ideas. A weight was lifted off my shoulders after realizing I don’t have to put so much pressure on myself starting off. The article was a good reminder that first drafts are meant to be “shitty” and there should be no expectations when expressing yourself through writing. 
 
+<img src="https://tanneyc.github.io/tanneyCNU/images/shittyfirstdrafts.png" width="25%">
+
+
 This class took away from the standard style of learning that I am typically used to in my other classes. We strayed away from regular discussion posts and made **Twitter** our way of sharing what we learned and allowed us to discuss amongst our peers our takeaways from class. I liked having the freedom to tweet without any guidelines because it became a way for me to express my opinions on things we looked at in the course. We also used **GitHub** to post blogs which I found really fun to explore and learn. I thought it was more engaging for us as students to play around with in comparison to an old fashioned way of doing so. 
 
 <img src="https://tanneyc.github.io/tanneyCNU/images/profile.jpg" width="30%"> <img src="https://tanneyc.github.io/tanneyCNU/images/github.png" width="30%">
