@@ -14,7 +14,7 @@ This class took away from the standard style of learning that I am typically use
 
 <img src="https://tanneyc.github.io/tanneyCNU/images/profile.jpg" width="30%"> 
 
-<img src="https://tanneyc.github.io/tanneyCNU/images/github.jpg" width="30%">
+<img src="https://tanneyc.github.io/tanneyCNU/images/GH.jpg" width="30%">
 
 Besides our blog posts, our final assignment was to propose a grant idea that we heavily focused on for the rest of the semester. It was a great way to finish off because we concentrated on things we were passionate about which made it more enjoyable. Although I found a lot of the assignments to be tedious, I didn’t mind the process since it was more of a creative outlet for us. 
 
