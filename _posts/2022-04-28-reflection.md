@@ -1,4 +1,4 @@
-# Reflection
+# Final Reflection
 
 When I was first introduced to Digital Humanities at the beginning of the semester, I didn’t have much initial knowledge on the subject.  As someone who is taking on this new field of study as my minor, it was vital for me to get a grasp on what it entails. Although it felt risky for me to jump into something I had no familiarity with, it has easily become one of the most beneficial courses for me and I am glad I made the decision to embark on something that will become more present in society.  
 
