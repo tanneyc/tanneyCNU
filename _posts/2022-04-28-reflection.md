@@ -4,7 +4,7 @@ When I was first introduced to Digital Humanities at the beginning of the semest
 
 During one of the first fews classes, we were asked to define what we thought DH meant. I feel like I can speak for the majority of the class and say this wasn’t an easy task to do, especially since most of us were going into this unknown. Flash forward to the last week of class, we were asked to do the exact same activity. I defined it as: 
 
-## *“the practice of approaching humanities in a digital, yet more visual and interactive way that allows people to expand on their knowledge with creativity and experience culture and society in a new form with new technologies”*.
+### *“the practice of approaching humanities in a digital, yet more visual and interactive way that allows people to expand on their knowledge with creativity and experience culture and society in a new form with new technologies”*.
 
 What I love the most about DH and this activity was that there was no right or wrong answer. Everyone has their own perspective and idea of what DH is that can be curated through personal experiences, but it’s so interesting to see that even if they are different, there are still similar components to each. 
 
