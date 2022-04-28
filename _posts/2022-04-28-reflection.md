@@ -14,11 +14,11 @@ This class took away from the standard style of learning that I am typically use
 
 <img src="https://tanneyc.github.io/tanneyCNU/images/profile.jpg" width="30%"> 
 
+<img src="https://tanneyc.github.io/tanneyCNU/images/github.png" width="30%">
+
 Besides our blog posts, our final assignment was to propose a grant idea that we heavily focused on for the rest of the semester. It was a great way to finish off because we concentrated on things we were passionate about which made it more enjoyable. Although I found a lot of the assignments to be tedious, I didn’t mind the process since it was more of a creative outlet for us. 
 
 These assignments shaped me as a writer by allowing me to branch out and write on different topics for different audiences. They taught me that it is important to be flexible with your writing style and a well-written grant doesn’t mean anything unless it's executed in a persuasive and compelling way. I especially enjoyed looking at different DH projects to get a better grasp for what’s considered DH and what’s not. 
-
-<img src="https://tanneyc.github.io/tanneyCNU/images/GH.jpeg" width="30%">
 
 As a writer, reader, and digital humanities student, I felt I have grown a lot because of how much insight I have gained during the semester. I have more confidence in providing a definition for DH now that I had exposure to the practice and acquired the skills that make a good digital humanities scholar. I am very grateful for the experience this class has given me and I hope to take what I learned and use it in any future endeavors. 
 
