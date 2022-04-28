@@ -18,4 +18,4 @@ These assignments shaped me as a writer by allowing me to branch out and write o
 
 As a writer, reader, and digital humanities student, I felt I have grown a lot because of how much insight I have gained during the semester. I have more confidence in providing a definition for DH now that I had exposure to the practice and acquired the skills that make a good digital humanities scholar. I am very grateful for the experience this class has given me and I hope to take what I learned and use it in any future endeavors. 
 
-https://github.com/tanneyc/tanneyCNU/blob/4de6ca232315f885f5e04136282e74b8031f543b/images/finaltweet.jpg
+<img src="https://tanneyc.github.io/tanneyCNU/images/finaltweet.jpg" width="75%">
