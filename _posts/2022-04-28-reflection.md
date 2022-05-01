@@ -13,13 +13,11 @@ Throughout the course we looked at a number of readings and participated in a va
 One of my favorite readings that we looked at was titled, “Shitty First Drafts” and it provided me with a sense of comfort knowing I don’t have to put together a quality first draft to begin with. The article encourages writers to write multiple drafts to create room for improvement which also gives you the opportunity to expand on previous ideas. A weight was lifted off my shoulders after realizing I don’t have to put so much pressure on myself starting off. The article was a good reminder that first drafts are meant to be “shitty” and there should be no expectations when expressing yourself through writing. 
 
 <img src="https://tanneyc.github.io/tanneyCNU/images/sfd1.jpg" width="75%">
-
 ###### Class side discussing article "Shitty First Drafts"  
 
 This class took away from the standard style of learning that I am typically used to in my other classes. We strayed away from regular discussion posts and made **Twitter** our way of sharing what we learned and allowed us to discuss amongst our peers our takeaways from class. I liked having the freedom to tweet without any guidelines because it became a way for me to express my opinions on things we looked at in the course. We also used **GitHub** to post blogs which I found really fun to explore and learn. I thought it was more engaging for us as students to play around with in comparison to an old fashioned way of doing so. 
 
 <img src="https://tanneyc.github.io/tanneyCNU/images/profile.jpg" width="30%"> <img src="https://tanneyc.github.io/tanneyCNU/images/github.png" width="30%">
-
 ###### Twitter and blog profiles 
 
 Besides our blog posts, our final assignment was to propose a grant idea that we heavily focused on for the rest of the semester. It was a great way to finish off because we concentrated on things we were passionate about which made it more enjoyable. Although I found a lot of the assignments to be tedious, I didn’t mind the process since it was more of a creative outlet for us. 
@@ -29,5 +27,4 @@ These assignments shaped me as a writer by allowing me to branch out and write o
 As a writer, reader, and digital humanities student, I felt I have grown a lot because of how much insight I have gained during the semester. I have more confidence in providing a definition for DH now that I had exposure to the practice and acquired the skills that make a good digital humanities scholar. I am very grateful for the experience this class has given me and I hope to take what I learned and use it in any future endeavors. 
 
 <img src="https://tanneyc.github.io/tanneyCNU/images/finaltweet.jpg" width="45%">
-
 ###### Final tweet reflection
